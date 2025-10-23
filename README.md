@@ -1,0 +1,1 @@
+Pipeline for classifying EMG data
